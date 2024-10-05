@@ -55,3 +55,8 @@ Imports of natural gas by partner country
 https://ec.europa.eu/eurostat/databrowser/view/nrg_ti_gas/default/table?lang=en&category=nrg.nrg_quant.nrg_quanta.nrg_t.nrg_ti
 
 Same as the table above, only for natural gas instead of oil.
+
+QUESTIONS:
+
+I was wondering since I am using so many different sources, if it would make sense to combine some of them into a bigger table, or 
+if I should leave it as is?
