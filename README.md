@@ -9,7 +9,8 @@ I looked at the energy sector both before and after the ssanctions, looked at th
 tried to give a comprehensive overview of the impact these sanctions had on the EU.
 
 Final Project:
-![final_infographic](https://github.com/user-attachments/assets/45b63361-3744-4fa6-a634-68cbbaf9d676)
+![infographic](https://github.com/user-attachments/assets/479ec4cc-2ad8-404e-96c9-dc80a7644f4f)
+
 
 Data Sources:
 This project used three distinct sources of data. 
@@ -30,3 +31,8 @@ Chart 8 used data from ENTSOG, which stands for the European Network of Transmis
 They publish weekly data to increase transparency about the transmission of gas within Europe, and have freely usable datasets
 under the conditions that "You may download, store and use the contents of this Website provided you keep intact all trademark, copyright and other proprietary notices indicated."
 (https://www.entsog.eu/privacy-policy-and-terms-use)
+
+Data Availability:
+All the data used in the code is available in this google drive folder:
+https://drive.google.com/drive/folders/1Jz2nHnyTDPhpTnb7UEshfAZiwn5xVtNS?usp=sharing
+Make sure to run the code from the same folder where the files are stored!
